@@ -2,12 +2,13 @@ module LRTHW25
   def self.break_words(stuff)
     #This function will break up words for us.
     words = stuff.split(' ')
-    words
+    return words
   end
   
   def self.sort_words(words)
     # Sorts the words.
-    words.sort()
+    sorted_words = words.sort()
+    return sorted_words
   end
   
   def self.print_first_word(words)
