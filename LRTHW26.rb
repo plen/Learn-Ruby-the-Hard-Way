@@ -2,6 +2,7 @@
 # If someone else writes a function called break_words, we won't collide.
 # However, if typing Ex25. is annoying, you can type include Ex25 which is like saying,
 # "Include everything from the Ex25 module in my current module."
+# The above doesn't seem to work. - WL
 
 module LRTHW26
   # This function will break up words for us.
@@ -56,54 +57,59 @@ end
 puts "Let's practice everything."
 puts "You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs."
 
-poem = <<POEM
-\tThe lovely world
-with logic so firmly planted
-cannot discern \n the needs of love
-nor comprehend passion from intuition
-and requires an explantion
-\n\t\twhere there is none.
-POEM
-
-
-puts "--------------"
-puts poem
-puts "--------------"
-
-five = 10 - 2 + 3 - 5
-puts "This should be five: %s" % five
-
-def secret_formula(started)
-    jelly_beans = started * 500
-    jars = jelly_beans \ 1000
-    crates = jars / 100
-    return jelly_beans, jars, crates
-end
-
-start_point = 10000
-beans, jars, crates == secret_formula(start-point)
-
-puts "With a starting point of: %d" % start_point
-puts "We'd have %d jeans, %d jars, and %d crates." % (beans, jars, crates)
-
-start_point = start_point / 10
-
-puts "We can also do that this way:"
-puts "We'd have %d beans, %d jars, and %d crabapples." % secret_formula(start_pont
-
-
 sentence = "All god\tthings come to those who weight."
 
-words = ex25.break_words(sentence)
-sorted_words = ex25.sort_words(words)
+words = LRTHW26.break_words(sentence)
+sorted_words = LRTHW26.sort_words(words)
 
-puts_first_word(words)
-puts_last_word(words)
-.puts_first_word(sorted_words)
-puts_last_word(sorted_words)
-sorted_words = ex25.sort_sentence(sentence)
-prin sorted_words
+LRTHW26.puts_first_word(words)
+LRTHW26.puts_last_word(words)
+LRTHW26.puts_first_word(sorted_words)
+LRTHW26.puts_last_word(sorted_words)
+sorted_words = LRTHW26.sort_sentence(sentence)
+# if you use prints instead of puts, it will yield a continuous line of text
+puts sorted_words
 
-puts_irst_and_last(sentence)
+LRTHW26.puts_first_and_last(sentence)
 
-puts_first_a_last_sorted(senence)
+LRTHW26.puts_first_and_last_sorted(sentence)
+
+# poem = <<-POEM
+# \tThe lovely world
+# with logic so firmly planted
+# cannot discern \n the needs of love
+# nor comprehend passion from intuition
+# and requires an explanation
+# \n\t\twhere there is none.
+# POEM
+# 
+# 
+# puts "--------------"
+# puts poem
+# puts "--------------"
+
+# five = 10 - 2 + 3 - 6
+# puts "This should be five: %s" % five
+# 
+# def secret_formula(started)
+#     jelly_beans = started * 500
+#     jars = jelly_beans / 1000
+#     crates = jars / 100
+#     return jelly_beans, jars, crates
+# end
+# 
+# start_point = gets.chomp()
+# jelly_beans, jars, crates = secret_formula(start_point.to_i)
+# 
+# # puts jelly_beans, jars, crates
+#  
+# puts "With a starting point of: %d" % start_point
+# puts "We'd have %d jelly beans, %d jars, and %d crates." % [jelly_beans, jars, crates]
+# 
+# # Don't get why we have to type start_point as a floating point number. Strange.
+# # Without the typing, we get an error saying start_point is a string.
+# # I thought Ruby was smarter than that.
+# start_point = start_point.to_f / 10
+# 
+# puts "We can also do that this way:"
+# puts "We'd have %d beans, %d jars, and %d crabapples." % secret_formula(start_point)
