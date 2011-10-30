@@ -3,123 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>LRTHW25.rb</string>
+	<string>LRTHW33each.rb</string>
 	<key>documents</key>
 	<array>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW03.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:34:11Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW04.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:34:13Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW05.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:21Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW07.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:22Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW08.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:28Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW09.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:31Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW10.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:33Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW11.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:34Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW13.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:35Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW12.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:56Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW14.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:46Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW15.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:35:15Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW16.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:34:59Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW17.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:34:47Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW17v2.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T09:34:19Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW18.rb</string>
-			<key>lastUsed</key>
-			<date>2011-09-03T13:36:24Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW19.rb</string>
-			<key>lastUsed</key>
-			<date>2011-09-03T13:36:22Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW19v2.rb</string>
-			<key>lastUsed</key>
-			<date>2011-09-03T13:36:21Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>LRTHW20.rb</string>
-			<key>lastUsed</key>
-			<date>2011-09-03T13:36:40Z</date>
-		</dict>
 		<dict>
 			<key>filename</key>
 			<string>test.txt</string>
@@ -134,29 +20,189 @@
 		</dict>
 		<dict>
 			<key>filename</key>
-			<string>LRTHW24.rb</string>
-			<key>lastUsed</key>
-			<date>2011-10-09T10:07:13Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
 			<string>ruby_glossary.rb</string>
 			<key>lastUsed</key>
-			<date>2011-10-09T09:35:18Z</date>
+			<date>2011-10-13T15:51:13Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
-			<string>LRTHW26.rb</string>
+			<string>satish_arrays.rb</string>
 			<key>lastUsed</key>
-			<date>2011-10-09T14:42:21Z</date>
+			<date>2011-10-29T08:47:13Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW03.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:12Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW04.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:15Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW05.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:22Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW07.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:25Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW08.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:27Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW09.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:29Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW10.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:32Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW11.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:33Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW13.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:34Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW12.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:36Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW14.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:41Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW15.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:56:43Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW16.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:57:02Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW17.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:57:10Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW17v2.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:57:43Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW18.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:57:52Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW19.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T08:57:58Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW19v2.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T10:42:20Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW20.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T10:41:43Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW24.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T10:41:38Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>LRTHW25.rb</string>
 			<key>lastUsed</key>
-			<date>2011-10-09T14:42:21Z</date>
+			<date>2011-10-29T10:41:27Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW26.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T11:20:00Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW31.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T11:19:58Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW32.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T12:42:19Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW33.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T13:44:58Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW33each.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T14:44:12Z</date>
 			<key>selected</key>
 			<true/>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW33v3.rb</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW34.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T12:28:27Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>LRTHW35.rb</string>
+			<key>lastUsed</key>
+			<date>2011-10-29T14:44:12Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
@@ -168,9 +214,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>36</integer>
+				<integer>30</integer>
 				<key>line</key>
-				<integer>2</integer>
+				<integer>4</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -343,7 +389,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>5</integer>
 		</dict>
 		<key>LRTHW17.rb</key>
 		<dict>
@@ -457,7 +503,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>3</integer>
+			<integer>0</integer>
 		</dict>
 		<key>LRTHW25.rb</key>
 		<dict>
@@ -471,16 +517,116 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>7</integer>
 		</dict>
 		<key>LRTHW26.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>33</integer>
+				<integer>8</integer>
 				<key>line</key>
-				<integer>97</integer>
+				<integer>74</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>49</integer>
+		</dict>
+		<key>LRTHW31.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>2</integer>
+				<key>line</key>
+				<integer>22</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>LRTHW32.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>7</integer>
+				<key>line</key>
+				<integer>69</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>32</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>69</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>7</integer>
+				<key>line</key>
+				<integer>69</integer>
+			</dict>
+		</dict>
+		<key>LRTHW33.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>12</integer>
+				<key>line</key>
+				<integer>24</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>LRTHW33each.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>21</integer>
+				<key>line</key>
+				<integer>16</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>LRTHW34.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>LRTHW35.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>7</integer>
+				<key>line</key>
+				<integer>84</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -500,6 +646,20 @@
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>56</integer>
+		</dict>
+		<key>satish_arrays.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>51</integer>
+				<key>line</key>
+				<integer>8</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 		<key>test.txt</key>
 		<dict>
@@ -539,6 +699,13 @@
 		<string>LRTHW24.rb</string>
 		<string>LRTHW25.rb</string>
 		<string>LRTHW26.rb</string>
+		<string>LRTHW31.rb</string>
+		<string>LRTHW32.rb</string>
+		<string>LRTHW33each.rb</string>
+		<string>LRTHW35.rb</string>
+		<string>LRTHW33.rb</string>
+		<string>LRTHW34.rb</string>
+		<string>satish_arrays.rb</string>
 		<string>LRTHW15.rb</string>
 		<string>LRTHW16.rb</string>
 		<string>LRTHW17.rb</string>
@@ -561,6 +728,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{567, 68}, {710, 710}}</string>
+	<string>{{305, 53}, {710, 710}}</string>
 </dict>
 </plist>

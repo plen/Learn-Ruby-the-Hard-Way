@@ -1,0 +1,32 @@
+# y = maximum number
+# from 1, increment by x, where x is an argument, until u reach y
+# print the results
+
+# the difference between for and each loops are in variable scoping.
+# they are the same otherwise.
+# for loops leave variables in scope after completing, each loops don't.
+# USE EACH LOOPS
+
+arg1, arg2 = ARGV
+
+number_of_elements = arg1.to_i/arg2.to_i
+
+array1 = (0..number_of_elements.to_i).to_a
+
+array1.each do |f|
+  array_element = f * arg2.to_i
+  puts array_element
+end
+
+# Ranges in case statements
+# score = 70
+# 
+# result = case score
+#    when 0..40: "Fail"
+#    when 41..60: "Pass"
+#    when 61..70: "Pass with Merit"
+#    when 71..100: "Pass with Distinction"
+#    else "Invalid Score"
+# end
+# 
+# puts result
