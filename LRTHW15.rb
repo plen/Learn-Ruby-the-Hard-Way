@@ -1,7 +1,6 @@
 filename = ARGV.first
 
-prompt = "ANS>"
-txt = File.open(filename)
+txt = File.open(filename, 'r')
 
 puts "Here's your file: #{filename}"
 puts txt.read()

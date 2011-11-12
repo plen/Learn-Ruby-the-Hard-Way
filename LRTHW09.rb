@@ -4,6 +4,9 @@ months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 puts "Here are the days:", days
 puts "Here are the months:", months
 
+# This here is called a HEREDOC.
+# In some cases, it's a better idea to start it with "<<-" than just "<<"
+
 puts <<PARAGRAPH
 There's something going on here.
 with the three double-quotes.
