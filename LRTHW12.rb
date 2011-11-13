@@ -1,3 +1,5 @@
+# open-uri library, each-do loop
+
 require 'open-uri'
 
 puts "type in a website address here:"

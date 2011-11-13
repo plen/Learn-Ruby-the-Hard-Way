@@ -1,3 +1,5 @@
+# open, read, write to file
+
 filename = ARGV.first
 script = $0
 

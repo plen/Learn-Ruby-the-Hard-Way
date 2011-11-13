@@ -1,3 +1,5 @@
+# More arguments and user input
+
 user = ARGV.first
 prompt = 'ANS>'
 

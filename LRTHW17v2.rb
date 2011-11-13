@@ -1,3 +1,5 @@
+# more elegant version of read 1 file, write to another
+
 from_file, to_file = ARGV
 script = $0
 

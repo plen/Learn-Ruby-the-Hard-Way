@@ -1,3 +1,5 @@
+# string interpolation and math, arrays and string interpolation
+
 puts "Mary had a little lamb."
 puts "It's fleece was white as %s." % 'snow'
 puts "And everywhere that Mary went."

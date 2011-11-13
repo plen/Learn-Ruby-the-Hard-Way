@@ -1,3 +1,5 @@
+# functions, and passing values to functions
+
 def cheese_and_crackers(cheese_count, boxes_of_crackers)
   puts "You have #{cheese_count} cheeses!"
   puts "You have #{boxes_of_crackers} boxes of crackers!"

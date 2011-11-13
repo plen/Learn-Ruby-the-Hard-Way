@@ -1,3 +1,5 @@
+# Time library, string interpolation, math, variables
+
 #right now, program yields negative values for hours, days, months.
 
 year = Time.new.year

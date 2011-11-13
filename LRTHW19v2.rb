@@ -1,3 +1,5 @@
+# functions, and passing values to functions, football-style
+
 home_Team, away_Team, home_Goals, away_Goals = ARGV
 
 def game_tracker(home_team, away_team, home_goals, away_goals)
