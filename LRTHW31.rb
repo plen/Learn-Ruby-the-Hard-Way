@@ -1,3 +1,5 @@
+# bear taunting game
+
 def prompt
   print "> "
 end

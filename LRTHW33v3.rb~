@@ -1,9 +1,4 @@
-def prompt
-puts ">>"
-end
-
-prompt; variable_1 = gets.chomp() #ARGV
-prompt; variable_2 = gets.chomp()
+variable_1, variable_2 = gets.chomp() #ARGV
 
 # write a function for printing numbers up to a maximum
 

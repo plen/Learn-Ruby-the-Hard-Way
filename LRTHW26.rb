@@ -1,3 +1,5 @@
+# this was an exercise in fixing LRTHW25.rb
+
 # The reason we put our functions in a module is so they have their own namespace.
 # If someone else writes a function called break_words, we won't collide.
 # However, if typing Ex25. is annoying, you can type include Ex25 which is like saying,

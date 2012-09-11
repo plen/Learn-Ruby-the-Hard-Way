@@ -16,8 +16,7 @@ STDIN.gets
 output = File.open(to_file, 'a')
 output.write(indata)
 
-# puts "----------\n#{output}\n----------"
-# weird! doesn't work! i get the location of the memory allocated for "output" printed instead of output contents. :(
+puts "----------\n#{output.read()}\n----------"
 
 puts "Alright, all done."
 

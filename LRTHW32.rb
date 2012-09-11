@@ -1,10 +1,11 @@
+# arrays, each-do, for-in, while loops
+
 def prompt
   print ">>"
 end
 
-
 the_count = [1,2,3,4]
-fruits = ['pears','durians','mangos','kiwis','oranges','dragonfruits','lychees','longans','rambutans','jambu']
+fruits = ['pears','durians','mangos','kiwis','dragonfruits','lychees','longans','rambutans','jambu']
 change = [1,'pennies',2,'dimes',3,'quarters']
 
 #this first kind of for-loop goes through an array
@@ -18,6 +19,8 @@ end
 fruits.each do |fruit|
   puts "A fruit of type: #{fruit}"
 end
+fruits.sort! {|a,b| b <=> a} # sorting by reverse alphabetical order
+puts fruits
 
 #also we can go through mixed arrays too
 #note that i attempt to convert the array elements into integers.
@@ -27,17 +30,13 @@ for i in change
   puts "I got #{a}"
 end
 
-
 #we can also build arrays, first start with an empty one
 #if we do elements = [(0..5)] to skip the block below,
 #we get an output of 1 element - 0..5
 
 def question
-  stuff = -1
-  while stuff < 0 or stuff > 4
-    puts "Do you want: \n1. Stuff\n2. No stuff\n3. enumerated stuff"
-    prompt; stuff = gets.chomp.to_i #This was magic! Love it!
-  end
+  puts "Do you want: \n1. Stuff\n2. No stuff\n3. enumerated stuff"
+  prompt; stuff = gets.chomp.to_i #This is magic! Love it!
   return stuff
 end
 
@@ -75,7 +74,6 @@ def answer_print(stuff)
   end
 end
 
-answer = question
 answer_print(question)
 
 # days_of_week.index("Wed")

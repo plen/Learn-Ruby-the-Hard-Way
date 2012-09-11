@@ -8,7 +8,7 @@
 # for loops leave variables in scope after completing, each loops don't.
 # USE EACH LOOPS
 
-arg1, arg2 = ARGV
+arg1, arg2 = [100, 10] #ARGV
 
 number_of_elements = arg1.to_i/arg2.to_i
 

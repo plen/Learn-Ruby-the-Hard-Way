@@ -1,3 +1,5 @@
+# iteratively print line by line, IO library
+
 input_file = ARGV[0]
 
 # def print_all(f)
@@ -5,6 +7,7 @@ input_file = ARGV[0]
 # end
 
 def rewind(f)
+  # in the line below, it makes no diff if it is IO.SEEK_SET or IO::SEEK_SET
   f.seek(0, IO::SEEK_SET)
 end
 

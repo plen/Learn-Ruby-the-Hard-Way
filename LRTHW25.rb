@@ -1,3 +1,5 @@
+# module, functions, split method, sort method, shift method, pop method
+
 module LRTHW25
   def self.break_words(stuff)
     #This function will break up words for us.

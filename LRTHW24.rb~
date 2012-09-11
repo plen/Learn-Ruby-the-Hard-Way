@@ -1,4 +1,4 @@
-# escape sequences, HEREDOC, string interpolation, math
+# escape sequences, HEREDOC, strong interpolation, math
 
 puts "Let's practice everything."
 puts "You\'d need to know \'bout escapes that do \n newlines and \t tabs."
